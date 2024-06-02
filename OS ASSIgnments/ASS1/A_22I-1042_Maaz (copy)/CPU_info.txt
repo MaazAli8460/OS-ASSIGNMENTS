@@ -1,0 +1,5 @@
+Total Number of Processors: 8
+Total Number of Physical Cores: 8
+Hyperthreading Enabled: 1
+Total Number of Cores with Hyperthreading: 1
+Processor Model: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
